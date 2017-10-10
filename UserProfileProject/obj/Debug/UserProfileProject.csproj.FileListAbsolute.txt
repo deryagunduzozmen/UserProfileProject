@@ -1,0 +1,30 @@
+C:\Users\Derya Gunduz\documents\visual studio 2012\Projects\UserProfileProject\UserProfileProject\bin\Debug\UserProfileProject.exe.config
+C:\Users\Derya Gunduz\documents\visual studio 2012\Projects\UserProfileProject\UserProfileProject\bin\Debug\UserProfileProject.exe
+C:\Users\Derya Gunduz\documents\visual studio 2012\Projects\UserProfileProject\UserProfileProject\bin\Debug\UserProfileProject.pdb
+C:\Users\Derya Gunduz\documents\visual studio 2012\Projects\UserProfileProject\UserProfileProject\obj\Debug\UserProfileProject.Properties.Resources.resources
+C:\Users\Derya Gunduz\documents\visual studio 2012\Projects\UserProfileProject\UserProfileProject\obj\Debug\UserProfileProject.UserListForm.resources
+C:\Users\Derya Gunduz\documents\visual studio 2012\Projects\UserProfileProject\UserProfileProject\obj\Debug\UserProfileProject.UserProfileDetailsForm.resources
+C:\Users\Derya Gunduz\documents\visual studio 2012\Projects\UserProfileProject\UserProfileProject\obj\Debug\UserProfileProject.csproj.GenerateResource.Cache
+C:\Users\Derya Gunduz\documents\visual studio 2012\Projects\UserProfileProject\UserProfileProject\obj\Debug\UserProfileProject.exe
+C:\Users\Derya Gunduz\documents\visual studio 2012\Projects\UserProfileProject\UserProfileProject\obj\Debug\UserProfileProject.pdb
+C:\Users\Derya Gunduz\documents\visual studio 2012\Projects\UserProfileProject\UserProfileProject\obj\Debug\UserProfileProject.csprojResolveAssemblyReference.cache
+C:\Users\Derya Gunduz\Desktop\UserProfileProject\UserProfileProject\bin\Debug\UserProfileProject.exe.config
+C:\Users\Derya Gunduz\Desktop\UserProfileProject\UserProfileProject\obj\Debug\UserProfileProject.exe
+C:\Users\Derya Gunduz\Desktop\UserProfileProject\UserProfileProject\obj\Debug\UserProfileProject.pdb
+C:\Users\Derya Gunduz\Desktop\UserProfileProject\UserProfileProject\bin\Debug\UserProfileProject.exe
+C:\Users\Derya Gunduz\Desktop\UserProfileProject\UserProfileProject\bin\Debug\UserProfileProject.pdb
+C:\Users\Derya Gunduz\Desktop\UserProfileProject\UserProfileProject\obj\Debug\UserProfileProject.csprojResolveAssemblyReference.cache
+C:\Users\Derya Gunduz\Desktop\UserProfileProject\UserProfileProject\obj\Debug\UserProfileProject.Properties.Resources.resources
+C:\Users\Derya Gunduz\Desktop\UserProfileProject\UserProfileProject\obj\Debug\UserProfileProject.UserListForm.resources
+C:\Users\Derya Gunduz\Desktop\UserProfileProject\UserProfileProject\obj\Debug\UserProfileProject.UserProfileDetailsForm.resources
+C:\Users\Derya Gunduz\Desktop\UserProfileProject\UserProfileProject\obj\Debug\UserProfileProject.csproj.GenerateResource.Cache
+C:\Users\Derya Gunduz\Desktop\Interviews\SMBC\UserProfileProject\UserProfileProject\bin\Debug\UserProfileProject.exe.config
+C:\Users\Derya Gunduz\Desktop\Interviews\SMBC\UserProfileProject\UserProfileProject\obj\Debug\UserProfileProject.exe
+C:\Users\Derya Gunduz\Desktop\Interviews\SMBC\UserProfileProject\UserProfileProject\obj\Debug\UserProfileProject.pdb
+C:\Users\Derya Gunduz\Desktop\Interviews\SMBC\UserProfileProject\UserProfileProject\bin\Debug\UserProfileProject.exe
+C:\Users\Derya Gunduz\Desktop\Interviews\SMBC\UserProfileProject\UserProfileProject\bin\Debug\UserProfileProject.pdb
+C:\Users\Derya Gunduz\Desktop\Interviews\SMBC\UserProfileProject\UserProfileProject\obj\Debug\UserProfileProject.csprojResolveAssemblyReference.cache
+C:\Users\Derya Gunduz\Desktop\Interviews\SMBC\UserProfileProject\UserProfileProject\obj\Debug\UserProfileProject.Properties.Resources.resources
+C:\Users\Derya Gunduz\Desktop\Interviews\SMBC\UserProfileProject\UserProfileProject\obj\Debug\UserProfileProject.UserListForm.resources
+C:\Users\Derya Gunduz\Desktop\Interviews\SMBC\UserProfileProject\UserProfileProject\obj\Debug\UserProfileProject.UserProfileDetailsForm.resources
+C:\Users\Derya Gunduz\Desktop\Interviews\SMBC\UserProfileProject\UserProfileProject\obj\Debug\UserProfileProject.csproj.GenerateResource.Cache
